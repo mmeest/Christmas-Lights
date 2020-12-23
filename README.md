@@ -9,7 +9,10 @@ Tinkercad is a good place to start:
 https://www.tinkercad.com/
 
 <img src="img/circuit.png" width="250px">
-Circuit for current project\
+Circuit for current project
+
+
+
 
 <img src="img/arduino.png" width="80px">
 
