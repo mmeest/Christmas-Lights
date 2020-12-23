@@ -57,6 +57,9 @@ On most power adapter cases are displayed (+/-)polarity:\
 
 <img src="img/male.jpg" width="90px"><img src="img/female.jpg" width="90px">
 
+So we need also a power connector:\
+<img src="img/connection.jpg" width="200px">
+
 ## Color Codes
 **RGB** colors are composite of Red, Green and Blue color. Every color has value between 0 and 255, where 0 is OFF and 255 is the brightest. So the brightest color value is **255.255.255**. When all 3 values are equal, then the color is on black-white scale(gray). For example 206.206.206.
 Some color calculators:\
