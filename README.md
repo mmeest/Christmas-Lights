@@ -19,22 +19,24 @@ https://www.arduino.cc/en/software
 ## Components needed
 
 ### Microcontroller
-<p align="center">
+<p>
   <img src="img/arduino.jpg" width="250px">
 </p>
 *Arduino UNO microcontroller
 
 ### Led Strip
-<p align="center">
+<p>
   <img src="img/ledstrip.png" width="250px">
 </p>
-*WS2812 RGB 5V 18W IP20 Adressable Led Strip
+
+*WS2812 RGB 5V 18W IP20 Adressable Led Strip\
 
 <img src="img/strip.png" width="200px">
-*Arrow on the strip shows data direction
-*Led strips with a chip won't light up when power is connected. Without data connection leds will stay off.
+
+*Arrow on the strip shows data direction\
+*Led strips with a chip won't light up when power is connected. Without data connection leds will stay off.\
 *WS2812 LED strip needs externalt power adapter because it needs too mutch power from Arduino.\
-**Every RGB LED needs 60 mA**(3 x 20 mA, Red, Green, Blue). 
+**Every RGB LED needs 60 mA**(3 x 20 mA, Red, Green, Blue). \
 *E.g. 1m LED strip with 60 RGB leds needs 3 x 20 x 60 = 3600 mA = 3.6 A
 
 
@@ -46,14 +48,14 @@ For current project we use 5 volts 4 amps AC/DC adapter 5.5/2.1 mm.\
 *When Arduino is connected with 9-12V, then the output from 5V is about **~900mA**.
 
 <p align="center">
-  <img src="img/power.jpg" widht="250px">
+  <img src="img/power.jpg" width="250px">
 </p>
 *5VDC 4A adapter(GS18E05-P1J)
 
-On most power adapter cases are displayed (+/-)polarity:
+On most power adapter cases are displayed (+/-)polarity:\
 <img src="img/polar.png" width="200px">
 
-<img src="img/male.jpg" width="60px"><img src="img/female.jpg" width="60px">
+<img src="img/male.jpg" width="90px"><img src="img/female.jpg" width="90px">
 
 ## Color Codes
 **RGB** colors are composite of Red, Green and Blue color. Every color has value between 0 and 255, where 0 is OFF and 255 is the brightest. So the brightest color value is **255.255.255**. When all 3 values are equal, then the color is on black-white scale(gray). For example 206.206.206.
