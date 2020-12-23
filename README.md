@@ -11,7 +11,7 @@ https://www.tinkercad.com/
 <img src="img/circuit.png" width="250px">
 Circuit for current project
 
-<img src="img/arduino.png">
+<img src="img/arduino.png" width="80px">
 ## Arduino IDE
 **Arduino IDE** For writing, errorchecking and uploading code to Arduino:\
 https://www.arduino.cc/en/software
@@ -20,17 +20,17 @@ https://www.arduino.cc/en/software
 
 ### Microcontroller
 <p align="center">
-  <img src="img/arduino.jpg">
+  <img src="img/arduino.jpg" width="250px">
 </p>
 *Arduino UNO microcontroller
 
 ### Led Strip
 <p align="center">
-  <img src="img/ledstrip.png">
+  <img src="img/ledstrip.png" width="250px">
 </p>
 *WS2812 RGB 5V 18W IP20 Adressable Led Strip
 
-<img src="strip.png">
+<img src="img/strip.png" width="200px">
 *Arrow on the strip shows data direction
 *Led strips with a chip won't light up when power is connected. Without data connection leds will stay off.
 *WS2812 LED strip needs externalt power adapter because it needs too mutch power from Arduino.\
@@ -46,19 +46,19 @@ For current project we use 5 volts 4 amps AC/DC adapter 5.5/2.1 mm.\
 *When Arduino is connected with 9-12V, then the output from 5V is about **~900mA**.
 
 <p align="center">
-  <img src="img/power.jpg">
+  <img src="img/power.jpg" widht="250px">
 </p>
 *5VDC 4A adapter(GS18E05-P1J)
 
 On most power adapter cases are displayed (+/-)polarity:
-<img src="img/polar.png">
+<img src="img/polar.png" width="200px">
 
-<img src="img/male.jpg"><img src="img/female.jpg">
+<img src="img/male.jpg" width="60px"><img src="img/female.jpg" width="60px">
 
 ## Color Codes
 **RGB** colors are composite of Red, Green and Blue color. Every color has value between 0 and 255, where 0 is OFF and 255 is the brightest. So the brightest color value is **255.255.255**. When all 3 values are equal, then the color is on black-white scale(gray). For example 206.206.206.
 Some color calculators:\
-https://www.w3schools.com/colors/colors_rgb.asp
+https://www.w3schools.com/colors/colors_rgb.asp \
 https://htmlcolorcodes.com/color-chart/ 
 
 Example color codes:
