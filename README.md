@@ -8,7 +8,7 @@ https://www.arduino.cc/
 Tinkercad is a good place to start:
 https://www.tinkercad.com/
 
-<img src="img/circuit.png" width="500px">
+<img src="img/circuit.png" width="250px">
 Circuit for current project
 
 <img src="img/arduino.png">
