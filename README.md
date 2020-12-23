@@ -12,6 +12,7 @@ https://www.tinkercad.com/
 Circuit for current project
 
 <img src="img/arduino.png" width="80px">
+
 ## Arduino IDE
 **Arduino IDE** For writing, errorchecking and uploading code to Arduino:\
 https://www.arduino.cc/en/software
